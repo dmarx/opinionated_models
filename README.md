@@ -41,6 +41,8 @@ TODO:
 
 ## General Purpose Image Generation
 
-* SD 1.5, SDXL
+* Creative Applications: SD 1.5, SDXL
+* Stock Imagery: Flux
+* Text + Image Generation (Free): Flux
 
 TODO: finetunes, LoRAs, turbo, samplers, etc.

@@ -23,12 +23,21 @@ Leaderboard - https://huggingface.co/spaces/mteb/leaderboard
  
 ## General Purpose Text Generation
 
-* llama3 I guess?
+* llama-3.1-8b I guess?
+
 
 TODO:
 * creative writing
 * code generation
 * information extraction
+
+
+## Image Gen
+
+TODO:
+* Image Segmentation
+* Face Segmentation
+* Image Generation
 
 ## General Purpose Image Generation
 

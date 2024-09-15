@@ -24,7 +24,7 @@ Leaderboard - https://huggingface.co/spaces/mteb/leaderboard
 ## General Purpose Text Generation
 
 * llama-3.1-8b I guess?
-
+* also worth checking out: https://huggingface.co/microsoft/Phi-3.5-mini-instruct
 
 TODO:
 * creative writing

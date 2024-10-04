@@ -31,7 +31,6 @@ TODO:
 * code generation
 * information extraction
 
-
 ## Image Gen
 
 TODO:
@@ -46,3 +45,9 @@ TODO:
 * Text + Image Generation (Free): Flux
 
 TODO: finetunes, LoRAs, turbo, samplers, etc.
+
+
+## NSFW classification
+
+* https://huggingface.co/Falconsai/nsfw_image_detection
+  * Haven't actually tried this yet, but it ships with Flux so it's at least been vetted and selected by a team I respect
